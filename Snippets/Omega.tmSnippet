@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include oemga;</string>
+	<string>@include omega;$0</string>
 	<key>name</key>
 	<string>Omega</string>
 	<key>scope</key>

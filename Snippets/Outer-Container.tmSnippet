@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include outer-container;</string>
+	<string>@include outer-container;$0</string>
 	<key>name</key>
 	<string>Outer-Container</string>
 	<key>scope</key>

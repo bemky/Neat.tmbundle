@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include row;</string>
+	<string>@include row;$0</string>
 	<key>name</key>
 	<string>Row</string>
 	<key>scope</key>
